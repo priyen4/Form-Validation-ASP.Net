@@ -1,0 +1,11 @@
+c:\users\brahm\source\repos\Assignmnent2\Assignmnent2\bin\Debug\netcoreapp2.0\Assignmnent2.deps.json
+c:\users\brahm\source\repos\Assignmnent2\Assignmnent2\bin\Debug\netcoreapp2.0\Assignmnent2.runtimeconfig.json
+c:\users\brahm\source\repos\Assignmnent2\Assignmnent2\bin\Debug\netcoreapp2.0\Assignmnent2.runtimeconfig.dev.json
+c:\users\brahm\source\repos\Assignmnent2\Assignmnent2\bin\Debug\netcoreapp2.0\Assignmnent2.dll
+c:\users\brahm\source\repos\Assignmnent2\Assignmnent2\obj\Debug\netcoreapp2.0\Assignmnent2.csproj.CoreCompileInputs.cache
+c:\users\brahm\source\repos\Assignmnent2\Assignmnent2\obj\Debug\netcoreapp2.0\Assignmnent2.AssemblyInfoInputs.cache
+c:\users\brahm\source\repos\Assignmnent2\Assignmnent2\obj\Debug\netcoreapp2.0\Assignmnent2.AssemblyInfo.cs
+c:\users\brahm\source\repos\Assignmnent2\Assignmnent2\bin\Debug\netcoreapp2.0\Assignmnent2.pdb
+c:\users\brahm\source\repos\Assignmnent2\Assignmnent2\obj\Debug\netcoreapp2.0\Assignmnent2.dll
+c:\users\brahm\source\repos\Assignmnent2\Assignmnent2\obj\Debug\netcoreapp2.0\Assignmnent2.pdb
+C:\Users\Brahm\source\repos\Assignmnent2\Assignmnent2\obj\Debug\netcoreapp2.0\Assignmnent2.csprojAssemblyReference.cache
